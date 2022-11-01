@@ -1,3 +1,3 @@
 # Lab 8
 
-http://ecenetworking.byu.edu/493r/labs/lab-8/
+https://ecenetworking.byu.edu/fall20-493r/labs/lab-8/
